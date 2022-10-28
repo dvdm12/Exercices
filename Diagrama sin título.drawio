@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-28T17:10:40.263Z" agent="5.0 (Windows)" etag="s8G2ohjAomAVN9sGQEqM" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-28T17:26:25.155Z" agent="5.0 (Windows)" etag="lwlWmcu8Kr5aLVr6IkQc" version="20.5.1" type="github" pages="2">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1467" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -214,13 +214,13 @@
           <mxGeometry y="60" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-10" value="AGeneral" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="385" y="364" width="230" height="134" as="geometry" />
+          <mxGeometry x="385" y="364" width="270" height="150" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-10" vertex="1">
-          <mxGeometry y="26" width="230" height="8" as="geometry" />
+          <mxGeometry y="26" width="270" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="PEqW4hqBbAC3YHV6mAIF-13" value="+ AGeneral()&#xa;+ asignarNombreLocal(): void&#xa;+ eliminarNegocio(): void&#xa;+ actualizacionClientes():void&#xa;+ consultaClientes(): void&#xa;+ consultarInfoNegocio():&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-10" vertex="1">
-          <mxGeometry y="34" width="230" height="100" as="geometry" />
+        <mxCell id="PEqW4hqBbAC3YHV6mAIF-13" value="+ AGeneral()&#xa;+ asignarNombreLocal(): void&#xa;+ eliminarNegocio(): void&#xa;+ actualizacionClientes():void&#xa;+ consultaClientes(): void&#xa;+ consultarInfoNegocio(): void&#xa;+registrarAdministradorNegocio(): void&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-10" vertex="1">
+          <mxGeometry y="34" width="270" height="116" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-14" value="AUnico" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="720" y="364" width="180" height="60" as="geometry" />
