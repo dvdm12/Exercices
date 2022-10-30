@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T03:11:04.399Z" agent="5.0 (Windows)" etag="8c7DTzrcaJuBUGstK0qV" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-30T03:15:58.651Z" agent="5.0 (Windows)" etag="aD-9Yt-WMw1mxaKKADPV" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1235" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -215,8 +215,8 @@
             <mxPoint x="675.9599999999998" y="361.98799999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEqW4hqBbAC3YHV6mAIF-86" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="1591" y="349" width="40" height="22" as="geometry" />
+        <mxCell id="PEqW4hqBbAC3YHV6mAIF-86" value="0...20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Lucida Console;" parent="1" vertex="1">
+          <mxGeometry x="1598" y="349" width="40" height="22" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-87" value="inscribe" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="1545" y="269" width="40" height="22" as="geometry" />
