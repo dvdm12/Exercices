@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T03:15:58.651Z" agent="5.0 (Windows)" etag="aD-9Yt-WMw1mxaKKADPV" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-30T03:19:29.425Z" agent="5.0 (Windows)" etag="luE20jewU0b0QidoyEUU" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="1235" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1615" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,6 +400,22 @@
         </mxCell>
         <mxCell id="tcKruSmOZ0PLG6Dl_0cA-13" value="1...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Lucida Console;" vertex="1" parent="1">
           <mxGeometry x="1156" y="469" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tcKruSmOZ0PLG6Dl_0cA-15" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;rounded=0;fontSize=11;exitX=0.449;exitY=1.17;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEqW4hqBbAC3YHV6mAIF-61" target="PEqW4hqBbAC3YHV6mAIF-41">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="101" y="727" as="sourcePoint" />
+            <mxPoint x="261" y="727" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="113" y="680" />
+              <mxPoint x="236" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tcKruSmOZ0PLG6Dl_0cA-17" value="adquiere" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="170" y="650" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tcKruSmOZ0PLG6Dl_0cA-18" value="1...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="249.5" y="935" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
