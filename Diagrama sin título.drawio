@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T00:45:52.339Z" agent="5.0 (Windows)" etag="-GGIJONRTG0u-rjBlEhc" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T00:48:23.199Z" agent="5.0 (Windows)" etag="wy36ibi3gciJZWySHCLy" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="1409" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250000" pageHeight="250000" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250000" pageHeight="250000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,7 +113,7 @@
           <mxGeometry y="110" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-58" value="Cliente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="300" y="521" width="290" height="280" as="geometry" />
+          <mxGeometry x="300" y="521" width="290" height="290" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-59" value="- nombre: String&#xa;- apellido: String&#xa;- estadoCompra: Boolean&#xa;- fechaCompra: String&#xa;- dineroInvertido: double&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-58" vertex="1">
           <mxGeometry y="26" width="290" height="74" as="geometry" />
@@ -121,8 +121,8 @@
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-60" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-58" vertex="1">
           <mxGeometry y="100" width="290" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="PEqW4hqBbAC3YHV6mAIF-61" value="+ Cliente()&#xa;+ historial(): LinkedList&lt;Productos&gt;&#xa;+ realizarCompra(): void&#xa;+ setDineroInvertido(): double&#xa;+ getDineroInvertido(): void&#xa;+ setNombre(): String&#xa;+ setApellido(): String&#xa;+ setEstadoCompra(): String&#xa;+ getNombre(): void&#xa;+ getApellido(): void&#xa;+ getEstadoCompra(): void&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-58" vertex="1">
-          <mxGeometry y="108" width="290" height="172" as="geometry" />
+        <mxCell id="PEqW4hqBbAC3YHV6mAIF-61" value="+ Cliente()&#xa;+ historial(): LinkedList&lt;Productos&gt;&#xa;+ realizarCompra(): void&#xa;+ setDineroInvertido(): double&#xa;+ getDineroInvertido(): void&#xa;+ setNombre(): String&#xa;+ setApellido(): String&#xa;+ setEstadoCompra(): String&#xa;+ getNombre(): void&#xa;+ getApellido(): void&#xa;+ getEstadoCompra(): void&#xa;+ visualizarTienda(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-58" vertex="1">
+          <mxGeometry y="108" width="290" height="182" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-37" value="Inventario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="1235" y="1107" width="230" height="114" as="geometry" />
@@ -153,8 +153,8 @@
             <mxPoint x="999" y="777" as="sourcePoint" />
             <mxPoint x="995" y="877" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1000" y="837" />
-              <mxPoint x="991" y="837" />
+              <mxPoint x="1000" y="850" />
+              <mxPoint x="998" y="850" />
             </Array>
           </mxGeometry>
         </mxCell>
