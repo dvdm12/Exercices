@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T02:28:02.890Z" agent="5.0 (Windows)" etag="vI2-j348iv8ufMKcCWFH" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T02:28:30.031Z" agent="5.0 (Windows)" etag="PQGxiwk4EE9Clo1CNqIr" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="726" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250000" pageHeight="250000" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="250000" pageHeight="250000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,16 +83,16 @@
           <mxGeometry y="100" width="180" height="2" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-41" value="Producto" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="730" y="1467" width="240" height="170" as="geometry" />
+          <mxGeometry x="730" y="1467" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-42" value="- categoria: String&#xa;- precio: double&#xa;- marca: double&#xa;- localPerteneciente: String&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-41" vertex="1">
-          <mxGeometry y="26" width="240" height="64" as="geometry" />
+          <mxGeometry y="26" width="230" height="64" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-43" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-41" vertex="1">
-          <mxGeometry y="90" width="240" height="10" as="geometry" />
+          <mxGeometry y="90" width="230" height="10" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-44" value="+ setCategoria(): String&#xa;+ getCategoria(): void&#xa;+ getLocalPerteneciente(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-41" vertex="1">
-          <mxGeometry y="100" width="240" height="70" as="geometry" />
+          <mxGeometry y="100" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-49" value="GuardiaDeEstacionamiento" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;" parent="1" vertex="1">
           <mxGeometry x="1840" y="725" width="270" height="94" as="geometry" />
@@ -321,12 +321,13 @@
             <mxPoint x="1300" y="1607" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1402" y="1690" />
-              <mxPoint x="829" y="1690" />
+              <mxPoint x="839" y="1690" />
+              <mxPoint x="839" y="1660" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="NxkOI3kuFSJLJE0ama8F-8" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="830" y="1670" width="45" height="10" as="geometry" />
+          <mxGeometry x="845" y="1675" width="45" height="10" as="geometry" />
         </mxCell>
         <mxCell id="NxkOI3kuFSJLJE0ama8F-11" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Lucida Console;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.013;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="G6WE7F5R6Bjt1w4vUytD-6" target="PEqW4hqBbAC3YHV6mAIF-36" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
