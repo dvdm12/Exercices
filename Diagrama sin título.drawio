@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T00:35:17.716Z" agent="5.0 (Windows)" etag="XyZU7U4szvN-8zxv1SnH" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T00:36:12.307Z" agent="5.0 (Windows)" etag="3ATPT1oIw6_eZBqNdJhh" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1065" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -35,13 +35,13 @@
           <mxGeometry y="34" width="290" height="96" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-14" value="AdminLocal" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Lucida Console;" parent="1" vertex="1">
-          <mxGeometry x="710" y="481" width="260" height="160" as="geometry" />
+          <mxGeometry x="710" y="481" width="260" height="170" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontFamily=Lucida Console;" parent="PEqW4hqBbAC3YHV6mAIF-14" vertex="1">
           <mxGeometry y="26" width="260" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="PEqW4hqBbAC3YHV6mAIF-17" value="+ vender(): void&#xa;+ verInfoNegocio(): void &#xa;+ inventario(): void&#xa;+ cancelarVenta(): void&#xa;+ generarMulta(): void&#xa;+ cancelarMulta(): void&#xa;+ contratarEmpleado(): void&#xa;+ consultarInfoEmpleado(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontStyle=0" parent="PEqW4hqBbAC3YHV6mAIF-14" vertex="1">
-          <mxGeometry y="34" width="260" height="126" as="geometry" />
+        <mxCell id="PEqW4hqBbAC3YHV6mAIF-17" value="+ vender(): void&#xa;+ verInfoNegocio(): void &#xa;+ inventario(): void&#xa;+ cancelarVenta(): void&#xa;+ generarMulta(): void&#xa;+ cancelarMulta(): void&#xa;+ contratarEmpleado(): void&#xa;+ consultarInfoEmpleado(): void&#xa;+ consultarCliente(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontStyle=0" parent="PEqW4hqBbAC3YHV6mAIF-14" vertex="1">
+          <mxGeometry y="34" width="260" height="136" as="geometry" />
         </mxCell>
         <mxCell id="PEqW4hqBbAC3YHV6mAIF-18" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;fontFamily=Lucida Console;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.327;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PEqW4hqBbAC3YHV6mAIF-10" target="NxkOI3kuFSJLJE0ama8F-24" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -314,7 +314,7 @@
             <mxPoint x="840" y="857" as="sourcePoint" />
             <mxPoint x="1000" y="857" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="903" y="767" />
+              <mxPoint x="928" y="767" />
               <mxPoint x="878" y="767" />
             </Array>
           </mxGeometry>
@@ -357,7 +357,7 @@
         <mxCell id="NxkOI3kuFSJLJE0ama8F-15" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="650" y="799" as="sourcePoint" />
-            <mxPoint x="779" y="642" as="targetPoint" />
+            <mxPoint x="779" y="650" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="799" />
             </Array>
