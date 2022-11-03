@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T22:32:18.108Z" agent="5.0 (Windows)" etag="ov9B2PSX2NJqVE3D4FNE" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T22:34:15.016Z" agent="5.0 (Windows)" etag="qkXv_pbfTeEnw51pPsOx" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="913" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -140,13 +140,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-54" value="+locales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="600" y="810" width="30" height="20" as="geometry" />
+          <mxGeometry x="599" y="817" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-55" value="+usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="689" y="100" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-58" value="+aplicacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="830" y="100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-59" value="20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="589" y="800" width="20" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
