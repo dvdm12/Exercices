@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T19:32:03.089Z" agent="5.0 (Windows)" etag="fIvDpFPoIBEXaiC_4TXw" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T19:36:35.484Z" agent="5.0 (Windows)" etag="32cPhunikheJg28yaI4p" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="1491" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,8 +25,8 @@
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-10" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Vendedor&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- rol: String&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ vender(): void&lt;br&gt;&lt;/p&gt;&lt;div&gt;&amp;nbsp;+ venderProductoPendiente(): void&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" parent="1" vertex="1">
           <mxGeometry x="826" y="481" width="234" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Guardia&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1186" y="481" width="160" height="90" as="geometry" />
+        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Guardia&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ buscar(): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ modificar(): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ eliminar(): void&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ calcularValorParqueo(): void&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1186" y="481" width="214" height="109" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-13" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=11;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -251,7 +251,19 @@
           <mxGeometry x="428" y="840" width="20" height="9" as="geometry" />
         </mxCell>
         <mxCell id="EktKLP-quev8YSrCmzG5-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Vehiculo&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- placa: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- horaIngreso: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- horaSalida: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- estadoVehiculo: Boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- tipo: String&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="670" width="180" height="140" as="geometry" />
+          <mxGeometry x="1290" y="696" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EktKLP-quev8YSrCmzG5-15" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PEnpKrJ57bLBcx3Q7LFm-12" target="EktKLP-quev8YSrCmzG5-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1240" y="670" as="sourcePoint" />
+            <mxPoint x="1400" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EktKLP-quev8YSrCmzG5-16" value="+vehiculos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="666" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EktKLP-quev8YSrCmzG5-18" value="0...20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="650" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
