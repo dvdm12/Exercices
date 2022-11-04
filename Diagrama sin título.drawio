@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T16:31:22.164Z" agent="5.0 (Windows)" etag="OUTvpYd7zJCScZwyle1b" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T16:33:22.167Z" agent="5.0 (Windows)" etag="hlNJWUjx2MckLJdwrkwZ" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="768" dy="356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="905" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
           <mxGeometry x="684" y="808" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-64" value="+propietario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="741" y="737" width="30" height="20" as="geometry" />
+          <mxGeometry x="735" y="730" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-65" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontFamily=Lucida Console;fontSize=10;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PEnpKrJ57bLBcx3Q7LFm-35" target="PEnpKrJ57bLBcx3Q7LFm-9" edge="1">
           <mxGeometry relative="1" as="geometry">
