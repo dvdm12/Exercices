@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T02:17:00.483Z" agent="5.0 (Windows)" etag="CBLdndDc7Ib52CuKMEr0" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T02:22:56.874Z" agent="5.0 (Windows)" etag="tKOeHVgnRxtL5ZwGMWkL" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="750" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -186,7 +186,7 @@
           <mxGeometry x="365" y="987" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-83" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="337" y="1030" width="30" height="20" as="geometry" />
+          <mxGeometry x="339" y="1030" width="21" height="15" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-93" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontFamily=Lucida Console;fontSize=10;entryX=-0.004;entryY=0.664;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -218,20 +218,17 @@
             <mxPoint x="336.9999999999998" y="1015.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-101" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontFamily=Lucida Console;fontSize=10;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PEnpKrJ57bLBcx3Q7LFm-45" target="PEnpKrJ57bLBcx3Q7LFm-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="311" y="900" as="sourcePoint" />
-            <mxPoint x="471" y="900" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-105" value="+local" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="448" y="890" width="30" height="20" as="geometry" />
+          <mxGeometry x="436" y="900" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-107" value="+productos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="316" y="890" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-108" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="279" y="957" width="30" height="20" as="geometry" />
+        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-110" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontFamily=Lucida Console;fontSize=10;edgeStyle=orthogonalEdgeStyle;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PEnpKrJ57bLBcx3Q7LFm-45">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="326" y="920" as="sourcePoint" />
+            <mxPoint x="486" y="920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="285" y="920" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
