@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T19:28:50.882Z" agent="5.0 (Windows)" etag="wq_A4uyfrfD1gfH55EZl" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T19:32:03.089Z" agent="5.0 (Windows)" etag="fIvDpFPoIBEXaiC_4TXw" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="724" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1491" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-43" value="1...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="666" y="51" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-44" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Inventario&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ registrarProductos(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" parent="1" vertex="1">
+        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-44" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Inventario&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ registrarProductos(): void&lt;br&gt;&lt;/p&gt;&lt;div&gt;&amp;nbsp;+ modificarProducto(): void&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" parent="1" vertex="1">
           <mxGeometry x="806" y="971" width="204" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-45" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Producto&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- categoria: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- precio: double&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ localPerteneciente(): void&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" parent="1" vertex="1">
