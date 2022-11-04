@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T19:23:26.982Z" agent="5.0 (Windows)" etag="w5ZyGa9NcZ2HHn6qziqB" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T19:28:06.871Z" agent="5.0 (Windows)" etag="PIssMt-GiMS4Y4f9cXmU" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1810" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -250,14 +250,8 @@
         <mxCell id="EktKLP-quev8YSrCmzG5-11" value="0...20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="428" y="840" width="20" height="9" as="geometry" />
         </mxCell>
-        <mxCell id="EktKLP-quev8YSrCmzG5-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Vehiculo&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="670" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="EktKLP-quev8YSrCmzG5-13" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Moto&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="820" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="EktKLP-quev8YSrCmzG5-14" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Moto&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ field: Type&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;+ method(): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="820" width="160" height="90" as="geometry" />
+        <mxCell id="EktKLP-quev8YSrCmzG5-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 11px;&quot;&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;Vehiculo&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- placa: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- horaIngreso: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- horaSalida: String&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- estadoVehiculo: Boolean&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px; font-size: 11px;&quot;&gt;- tipo: String&lt;br&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 11px;&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=11;fontFamily=Lucida Console;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="670" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
