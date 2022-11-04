@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-04T17:57:36.226Z" agent="5.0 (Windows)" etag="ZhYmf33Kp-sk4JGN74Yz" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-04T17:58:18.277Z" agent="5.0 (Windows)" etag="RDHibuhY7LARzppZUHu9" version="20.5.1" type="github">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1102" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,13 +136,12 @@
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-70" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="519" y="222" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-72" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontFamily=Lucida Console;fontSize=10;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="PEnpKrJ57bLBcx3Q7LFm-45" target="PEnpKrJ57bLBcx3Q7LFm-5" edge="1">
+        <mxCell id="PEnpKrJ57bLBcx3Q7LFm-72" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;fontFamily=Lucida Console;fontSize=10;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="PEnpKrJ57bLBcx3Q7LFm-45" target="PEnpKrJ57bLBcx3Q7LFm-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="146" y="671" as="sourcePoint" />
             <mxPoint x="306" y="671" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="216" y="421" />
-              <mxPoint x="306" y="421" />
+              <mxPoint x="182" y="346" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -150,13 +149,13 @@
           <mxGeometry x="130" y="951" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-76" value="+clientes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="335" y="402" width="30" height="20" as="geometry" />
+          <mxGeometry x="217" y="326" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-78" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="186" y="955" width="20" height="14" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-79" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="288" y="402" width="30" height="20" as="geometry" />
+          <mxGeometry x="240" y="346" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PEnpKrJ57bLBcx3Q7LFm-81" value="+productos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="375" y="996" width="30" height="20" as="geometry" />
