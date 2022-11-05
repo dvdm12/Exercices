@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T19:13:13.880Z" agent="5.0 (Windows)" etag="YsumkZE4x0ryghILARbT" version="20.5.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-05T19:14:26.377Z" agent="5.0 (Windows)" etag="DC2GP9Yj_VzyYFwVgT1D" version="20.5.1" type="github" pages="4">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1432" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -394,7 +394,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WcYgzYfYPNeF46nQslpW" name="Página-4">
-    <mxGraphModel dx="3103" dy="1960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1552" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -472,6 +472,20 @@
             <mxPoint x="75.36585365853658" y="323.85964912280707" as="sourcePoint" />
             <mxPoint x="301.46341463414603" y="367.4561403508772" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PS5IFU_1DggamJHyGh7o" name="Página-5">
+    <mxGraphModel dx="532" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ui77sB6I-nQBcqhWFZyh-1" value="" style="swimlane;startSize=0;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="680" height="700" as="geometry" />
+        </mxCell>
+        <mxCell id="ui77sB6I-nQBcqhWFZyh-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="380" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
