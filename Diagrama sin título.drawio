@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T17:52:38.862Z" agent="5.0 (Windows)" etag="YwoE5MsQOesySldE0D9q" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-05T17:52:57.832Z" agent="5.0 (Windows)" etag="quGY34pjDv8NHRtQghHY" version="20.5.1" type="github" pages="2">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1432" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -327,9 +327,6 @@
         <mxCell id="JXjWD7XduQ8uRfKGp8z6-16" value="realizar nuevo registro de cliente" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="828" y="842" width="192.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JXjWD7XduQ8uRfKGp8z6-17" value="visualizar detalles ventas de clientes" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="712" width="210" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="JXjWD7XduQ8uRfKGp8z6-18" value="actualización de información " style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="828" y="632" width="192.5" height="80" as="geometry" />
         </mxCell>
@@ -383,6 +380,9 @@
         </mxCell>
         <mxCell id="BP1xeLH4H7wpUTBVOEN4-2" value="Gestión Centro Comercial" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="JXjWD7XduQ8uRfKGp8z6-31">
           <mxGeometry x="419" y="5" width="80" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="JXjWD7XduQ8uRfKGp8z6-17" value="visualizar detalles ventas de clientes" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="JXjWD7XduQ8uRfKGp8z6-31">
+          <mxGeometry x="570" y="681" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JXjWD7XduQ8uRfKGp8z6-32" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JXjWD7XduQ8uRfKGp8z6-26">
           <mxGeometry relative="1" as="geometry">
