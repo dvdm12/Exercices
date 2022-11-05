@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T21:52:22.476Z" agent="5.0 (Windows)" etag="1d4uF22fP4kNMWJeGs1e" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-05T21:53:42.124Z" agent="5.0 (Windows)" etag="ufHzB01zg9TxBeKzafI-" version="20.5.1" type="github" pages="4">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1466" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -477,7 +477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PS5IFU_1DggamJHyGh7o" name="Página-5">
-    <mxGraphModel dx="2566" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="2221" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,7 +545,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TYoGKdt8fc8FUUJTwaZh-1" value="Gestión centro comercial" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=11;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-510.13391246241235" y="150" width="63.32108252589374" height="23.911132972618464" as="geometry" />
+          <mxGeometry x="-510.13391246241235" y="181" width="63.32108252589374" height="23.911132972618464" as="geometry" />
         </mxCell>
         <mxCell id="PToR-B_xY1eMoo05MEM0-1" value="visualizar información&amp;nbsp; negocio" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;container=0;" vertex="1" parent="1">
           <mxGeometry x="-727.5342465753424" y="602.4953271028037" width="107.12328767123287" height="51.6822429906542" as="geometry" />
