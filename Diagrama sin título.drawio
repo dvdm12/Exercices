@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T17:50:14.819Z" agent="5.0 (Windows)" etag="6fdIb28HRyDZOJQxgol4" version="20.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-05T17:52:38.862Z" agent="5.0 (Windows)" etag="YwoE5MsQOesySldE0D9q" version="20.5.1" type="github" pages="2">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1432" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -251,7 +251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ammL-CGU-rNWmskxWwCr" name="Página-3">
-    <mxGraphModel dx="1693" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1432" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,7 +324,7 @@
             <mxPoint x="867.9999999999957" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JXjWD7XduQ8uRfKGp8z6-16" value="realizar nuevo registro" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="JXjWD7XduQ8uRfKGp8z6-16" value="realizar nuevo registro de cliente" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="828" y="842" width="192.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JXjWD7XduQ8uRfKGp8z6-17" value="visualizar detalles ventas de clientes" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
