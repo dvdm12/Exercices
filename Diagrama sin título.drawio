@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T21:57:37.588Z" agent="5.0 (Windows)" etag="utin7TU2xeHYEFsoBmB5" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-05T21:58:43.204Z" agent="5.0 (Windows)" etag="8Rbb-HQ2rDAId5Th2Bvb" version="20.5.1" type="github" pages="4">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1466" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -251,7 +251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ammL-CGU-rNWmskxWwCr" name="Página-3">
-    <mxGraphModel dx="1361" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2383" dy="1498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -404,6 +404,15 @@
         <mxCell id="eLbjiDkjr_S01PlvCK7e-1" value="acceder a historial de compras" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;container=0;" vertex="1" parent="fcTpKnhJrCkDG7SGj9dD-1">
           <mxGeometry x="94.75" y="498.25" width="296.95" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="ek5Hkmbfd8Mf3WhsQuX1-1" value="visualizar total invertido" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;container=0;" vertex="1" parent="fcTpKnhJrCkDG7SGj9dD-1">
+          <mxGeometry x="136.46000000000004" y="710" width="273.54" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LImS5DPknzIHZFYpBD5f-1" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="fcTpKnhJrCkDG7SGj9dD-1" source="ek5Hkmbfd8Mf3WhsQuX1-1" target="eLbjiDkjr_S01PlvCK7e-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="488.3617881310074" y="699.9980228923203" as="sourcePoint" />
+            <mxPoint x="326.5853658536612" y="652.1600000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nVr8crC3-9KAoDm7fHmr-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontFamily=Lucida Console;fontSize=14;container=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="341.75438596491233" width="75.36585365853658" height="149.47368421052633" as="geometry" />
         </mxCell>
@@ -470,8 +479,11 @@
             <mxPoint x="1086.222926829268" y="304.3859649122807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ek5Hkmbfd8Mf3WhsQuX1-1" value="visualizar total invertido" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;container=0;" vertex="1" parent="1">
-          <mxGeometry x="640" y="830" width="273.54" height="100" as="geometry" />
+        <mxCell id="LImS5DPknzIHZFYpBD5f-2" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ek5Hkmbfd8Mf3WhsQuX1-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="520" as="sourcePoint" />
+            <mxPoint x="638.2900000000031" y="693.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
