@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T20:36:48.823Z" agent="5.0 (Windows)" etag="OVdWLnlaqaWoDgs1j9fd" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-05T20:38:51.078Z" agent="5.0 (Windows)" etag="5a5Ek35RU6hYiJ7sB0Uv" version="20.5.1" type="github" pages="4">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1466" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -394,7 +394,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WcYgzYfYPNeF46nQslpW" name="Página-4">
-    <mxGraphModel dx="1588" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1361" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,7 +432,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eLbjiDkjr_S01PlvCK7e-1" value="acceder a historial de compras" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="fcTpKnhJrCkDG7SGj9dD-1">
-          <mxGeometry x="113.04878048780488" y="535.6140350877193" width="276.3414634146341" height="137.01754385964912" as="geometry" />
+          <mxGeometry x="113.05" y="530" width="296.95" height="110" as="geometry" />
         </mxCell>
         <mxCell id="eLbjiDkjr_S01PlvCK7e-3" value="fijar fecha" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="fcTpKnhJrCkDG7SGj9dD-1">
           <mxGeometry x="552.6829268292682" y="585.4385964912282" width="213.53658536585365" height="87.19298245614036" as="geometry" />
@@ -556,8 +556,8 @@
             <mxPoint x="409.9999999999977" y="655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZ4iyT3OTScXB4G-bIzB-12" value="generar multas" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="ui77sB6I-nQBcqhWFZyh-1">
-          <mxGeometry x="150" y="890" width="170" height="70" as="geometry" />
+        <mxCell id="MZ4iyT3OTScXB4G-bIzB-12" value="generar venta" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="ui77sB6I-nQBcqhWFZyh-1">
+          <mxGeometry x="50" y="870" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ui77sB6I-nQBcqhWFZyh-2" value="Administrador de un negocio" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="330" y="220" width="30" height="60" as="geometry" />
