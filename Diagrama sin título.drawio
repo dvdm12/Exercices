@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-05T19:14:26.377Z" agent="5.0 (Windows)" etag="DC2GP9Yj_VzyYFwVgT1D" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-05T19:19:23.801Z" agent="5.0 (Windows)" etag="j2vJqIYyWL3pjnQwRRBk" version="20.5.1" type="github" pages="4">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1432" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
         <mxCell id="eLbjiDkjr_S01PlvCK7e-5" value="validación de registro" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=15;" vertex="1" parent="fcTpKnhJrCkDG7SGj9dD-1">
           <mxGeometry x="502.4390243902439" y="62.28070175438597" width="263.7804878048781" height="99.64912280701755" as="geometry" />
         </mxCell>
-        <mxCell id="eLbjiDkjr_S01PlvCK7e-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="fcTpKnhJrCkDG7SGj9dD-1" source="AT-ScEkKGk6HkJsfwzRL-1" target="eLbjiDkjr_S01PlvCK7e-5">
+        <mxCell id="eLbjiDkjr_S01PlvCK7e-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Lucida Console;fontSize=15;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="fcTpKnhJrCkDG7SGj9dD-1" source="AT-ScEkKGk6HkJsfwzRL-1" target="eLbjiDkjr_S01PlvCK7e-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="315.29744938607746" y="234.57036343056066" as="sourcePoint" />
             <mxPoint x="552.6829268292682" y="174.3859649122807" as="targetPoint" />
@@ -477,7 +477,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PS5IFU_1DggamJHyGh7o" name="Página-5">
-    <mxGraphModel dx="532" dy="336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1693" dy="1069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
