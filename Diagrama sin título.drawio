@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T17:53:41.218Z" agent="5.0 (Windows)" etag="RtrfuTsQu3qk-Cg0x84s" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-06T17:57:56.487Z" agent="5.0 (Windows)" etag="bVMfWU1PHDK816XFWwMU" version="20.5.1" type="github" pages="5">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
-    <mxGraphModel dx="1050" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,6 +256,12 @@
               <mxPoint x="564" y="10" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Nf-AZ3yZ4HzODEASKSU4-3" value="+usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="721" y="120" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Nf-AZ3yZ4HzODEASKSU4-5" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="715" y="110" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
