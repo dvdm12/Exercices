@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T16:10:21.029Z" agent="5.0 (Windows)" etag="Ssg8wcEzZWRNGKJg7KDt" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-06T16:12:17.265Z" agent="5.0 (Windows)" etag="ZddZLGYdCHH_Wnes9sGc" version="20.5.1" type="github" pages="5">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="2112" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -768,6 +768,9 @@
         <mxCell id="PDFgaA6vx-u3kW0R1_qL-16" value="fijar hora" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;container=0;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
           <mxGeometry x="359.1911627906977" y="319.99922077922076" width="103.25581395348838" height="47.4025974025974" as="geometry" />
         </mxCell>
+        <mxCell id="FZ5lU2QilcMiH9M3cc0y-10" value="validar cupos parqueadero" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;container=0;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
+          <mxGeometry x="418.14" y="400" width="128.26" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="PDFgaA6vx-u3kW0R1_qL-10" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rp4VU02civ00pa99IO-I-1" target="PDFgaA6vx-u3kW0R1_qL-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="289.3023255813954" y="276.4935064935065" as="sourcePoint" />
@@ -849,7 +852,7 @@
             <mxPoint x="565.2362790697696" y="323.8961038961039" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FZ5lU2QilcMiH9M3cc0y-4" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZ5lU2QilcMiH9M3cc0y-1" target="FZ5lU2QilcMiH9M3cc0y-3">
+        <mxCell id="FZ5lU2QilcMiH9M3cc0y-4" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=11;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FZ5lU2QilcMiH9M3cc0y-1" target="FZ5lU2QilcMiH9M3cc0y-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="135.81395348837214" y="286.49350649350663" as="sourcePoint" />
             <mxPoint x="299.30232558139824" y="532.9870129870128" as="targetPoint" />
