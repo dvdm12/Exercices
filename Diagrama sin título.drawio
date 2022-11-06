@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T15:55:11.140Z" agent="5.0 (Windows)" etag="Wqc2oYl5HI2N3LSEJAQz" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-06T15:55:23.710Z" agent="5.0 (Windows)" etag="pIoeGiguw_1Ys_jWx-Ri" version="20.5.1" type="github" pages="5">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="2112" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -727,7 +727,7 @@
           <mxGeometry x="300" y="40" width="620" height="770" as="geometry" />
         </mxCell>
         <mxCell id="mfSMhnoDm7rlMwc6P6UH-1" value="Gestión centro comercial" style="text;align=center;fontStyle=0;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Lucida Console;fontSize=11;container=0;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
-          <mxGeometry x="297.35608753758777" width="63.32108252589374" height="23.911132972618464" as="geometry" />
+          <mxGeometry x="273.35608753758777" width="63.32108252589374" height="23.911132972618464" as="geometry" />
         </mxCell>
         <mxCell id="mfSMhnoDm7rlMwc6P6UH-2" value="registrar ingreso vehiculo" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
           <mxGeometry x="114.66" y="300" width="140.68" height="60" as="geometry" />
