@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T15:47:11.775Z" agent="5.0 (Windows)" etag="Eje38KLbVX_yHDF9aXdJ" version="20.5.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-06T15:55:11.140Z" agent="5.0 (Windows)" etag="Wqc2oYl5HI2N3LSEJAQz" version="20.5.1" type="github" pages="5">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="2112" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -733,10 +733,10 @@
           <mxGeometry x="114.66" y="300" width="140.68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfSMhnoDm7rlMwc6P6UH-5" value="registrar salida vehiculo" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
-          <mxGeometry x="114.66" y="420" width="140.68" height="60" as="geometry" />
+          <mxGeometry x="90" y="490" width="140.68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfSMhnoDm7rlMwc6P6UH-6" value="desmarcar sitio de parqueo" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
-          <mxGeometry x="364.66" y="380" width="140.68" height="60" as="geometry" />
+          <mxGeometry x="340" y="450" width="140.68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mfSMhnoDm7rlMwc6P6UH-7" value="marcar sitio de parqueo" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
           <mxGeometry x="400.68" y="270" width="140.68" height="60" as="geometry" />
@@ -754,7 +754,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PDFgaA6vx-u3kW0R1_qL-3" value="generar recibo de pago" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
-          <mxGeometry x="284.66" y="520" width="150" height="60" as="geometry" />
+          <mxGeometry x="260" y="570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PDFgaA6vx-u3kW0R1_qL-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Lucida Console;fontSize=11;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Rp4VU02civ00pa99IO-I-2" source="mfSMhnoDm7rlMwc6P6UH-5" target="PDFgaA6vx-u3kW0R1_qL-3">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -763,7 +763,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PDFgaA6vx-u3kW0R1_qL-5" value="calcular total" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
-          <mxGeometry x="330.98" y="640" width="113.68" height="50" as="geometry" />
+          <mxGeometry x="380.34" y="690" width="113.68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PDFgaA6vx-u3kW0R1_qL-6" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Lucida Console;fontSize=11;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Rp4VU02civ00pa99IO-I-2" source="PDFgaA6vx-u3kW0R1_qL-3" target="PDFgaA6vx-u3kW0R1_qL-5">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -796,6 +796,15 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="334.45030572967767" y="231.15683999347016" as="sourcePoint" />
             <mxPoint x="194.99999999999977" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PDFgaA6vx-u3kW0R1_qL-16" value="fijar hora" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=11;" vertex="1" parent="Rp4VU02civ00pa99IO-I-2">
+          <mxGeometry x="410" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PDFgaA6vx-u3kW0R1_qL-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Lucida Console;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Rp4VU02civ00pa99IO-I-2" source="mfSMhnoDm7rlMwc6P6UH-2" target="PDFgaA6vx-u3kW0R1_qL-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="265.34000000000356" y="340" as="sourcePoint" />
+            <mxPoint x="410.68000000000234" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PDFgaA6vx-u3kW0R1_qL-10" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Lucida Console;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rp4VU02civ00pa99IO-I-1" target="PDFgaA6vx-u3kW0R1_qL-8">
