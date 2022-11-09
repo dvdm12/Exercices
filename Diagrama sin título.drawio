@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T16:42:31.212Z" agent="5.0 (Windows)" etag="V_rm5bdAyh7DqxNaenWK" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-09T16:42:50.176Z" agent="5.0 (Windows)" etag="V1Loo2-iDvnGaLkW6IeA" version="20.5.3" type="github" pages="6">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1290" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -891,7 +891,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="1235" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1053,16 +1053,16 @@
           <mxGeometry x="790" y="446.89" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="_pTfh0LebXDP_Wksqxsd-32" value="Vendedor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="519.89" width="160" height="154" as="geometry" />
+          <mxGeometry x="1270" y="554.89" width="160" height="84" as="geometry" />
         </mxCell>
         <mxCell id="_pTfh0LebXDP_Wksqxsd-33" value="-tipo: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_pTfh0LebXDP_Wksqxsd-32">
-          <mxGeometry y="26" width="160" height="94" as="geometry" />
+          <mxGeometry y="26" width="160" height="24" as="geometry" />
         </mxCell>
         <mxCell id="_pTfh0LebXDP_Wksqxsd-34" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="_pTfh0LebXDP_Wksqxsd-32">
-          <mxGeometry y="120" width="160" height="8" as="geometry" />
+          <mxGeometry y="50" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="_pTfh0LebXDP_Wksqxsd-35" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="_pTfh0LebXDP_Wksqxsd-32">
-          <mxGeometry y="128" width="160" height="26" as="geometry" />
+          <mxGeometry y="58" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_pTfh0LebXDP_Wksqxsd-36" value="Administrador" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="339.89" width="170" height="110" as="geometry" />
