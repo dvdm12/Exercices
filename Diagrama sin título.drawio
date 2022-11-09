@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T16:42:50.176Z" agent="5.0 (Windows)" etag="V1Loo2-iDvnGaLkW6IeA" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-09T16:45:14.771Z" agent="5.0 (Windows)" etag="Siq7E9fkyi9qPhVqSb5x" version="20.5.3" type="github" pages="6">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1290" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -891,7 +891,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="1000" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -978,7 +978,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iMt9pPm_66KUeKR5g6Sr-25" value="+ventana" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="229.89" width="20" height="10" as="geometry" />
+          <mxGeometry x="596" y="229.89" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="iMt9pPm_66KUeKR5g6Sr-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.412;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_pTfh0LebXDP_Wksqxsd-39" target="_pTfh0LebXDP_Wksqxsd-51">
           <mxGeometry width="160" relative="1" as="geometry">
