@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T18:10:48.204Z" agent="5.0 (Windows)" etag="T2hw7BCrrbiGhQe42i65" version="20.5.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-11-10T18:25:32.523Z" agent="5.0 (Windows)" etag="lTZY9aW01YWd8EH692R3" version="20.5.3" type="github" pages="7">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="1438" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -891,7 +891,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="1711" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="887" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -953,7 +953,7 @@
         <mxCell id="iMt9pPm_66KUeKR5g6Sr-17" value="+ comprarProducto():void&#xa;- localPerteneciente(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="iMt9pPm_66KUeKR5g6Sr-15" vertex="1">
           <mxGeometry y="34" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iMt9pPm_66KUeKR5g6Sr-22" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.341;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="R-teLPYyJ4iLzFkBUdng-8" edge="1">
+        <mxCell id="iMt9pPm_66KUeKR5g6Sr-22" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1035" y="339.89" as="sourcePoint" />
             <mxPoint x="1170" y="270" as="targetPoint" />
@@ -1105,7 +1105,7 @@
         <mxCell id="_pTfh0LebXDP_Wksqxsd-51" value="Negocio" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="976.96" y="519.89" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="_pTfh0LebXDP_Wksqxsd-52" value="- nombreAdmin: Administrador&#xa;- inicioContrato: String&#xa;- finContrato: String&#xa;- nombre&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_pTfh0LebXDP_Wksqxsd-51" vertex="1">
+        <mxCell id="_pTfh0LebXDP_Wksqxsd-52" value="- nombreAdmin: String&#xa;- inicioContrato: String&#xa;- finContrato: String&#xa;- nombre&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_pTfh0LebXDP_Wksqxsd-51" vertex="1">
           <mxGeometry y="26" width="180" height="94" as="geometry" />
         </mxCell>
         <mxCell id="_pTfh0LebXDP_Wksqxsd-53" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="_pTfh0LebXDP_Wksqxsd-51" vertex="1">
