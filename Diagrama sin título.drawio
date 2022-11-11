@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T21:17:08.429Z" agent="5.0 (Windows)" etag="fsKESz3nb2YTkLeKCbXk" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-11T21:21:17.139Z" agent="5.0 (Windows)" etag="tiFYAR5rRDLmQW6pR7BF" version="20.5.3" type="github" pages="5">
   <diagram id="ammL-CGU-rNWmskxWwCr" name="Página-3">
     <mxGraphModel dx="910" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -623,7 +623,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="1003" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="692" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -694,8 +694,8 @@
         <mxCell id="FyIRHZAKR3jJsP5KFHac-193" value="1...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="570" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="FyIRHZAKR3jJsP5KFHac-194" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Empleado&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;- cargo: String&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ visualizarInventario(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ generarVenta():void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ registrarCliente(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ gestionInventario(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="220" width="180" height="130" as="geometry" />
+        <mxCell id="FyIRHZAKR3jJsP5KFHac-194" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Empleado&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;- cargo: String&lt;br&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ visualizarInventario(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ generarVenta():void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ registrarCliente(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ gestionInventario(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ toString(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="220" width="180" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-197" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FyIRHZAKR3jJsP5KFHac-187" target="FyIRHZAKR3jJsP5KFHac-171">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -741,12 +741,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-209" value="1...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="1130" y="263" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-210" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FyIRHZAKR3jJsP5KFHac-194" target="FyIRHZAKR3jJsP5KFHac-172">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1120" y="340" as="sourcePoint" />
             <mxPoint x="960" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1160" y="280" />
+              <mxPoint x="890" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-211" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;edgeStyle=orthogonalEdgeStyle;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="FyIRHZAKR3jJsP5KFHac-181">
