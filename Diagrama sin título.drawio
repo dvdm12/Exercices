@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T01:37:21.554Z" agent="5.0 (Windows)" etag="gGRVHw3cQmqJwvGjyTER" version="20.5.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-11-11T01:41:59.376Z" agent="5.0 (Windows)" etag="n9nB5xqD_NMitP6019Te" version="20.5.3" type="github" pages="7">
   <diagram id="6UM_mXIubdZWodaXz436" name="Página-2">
     <mxGraphModel dx="2054" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1177,7 +1177,7 @@
           <mxGeometry x="1170" y="824" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="gy1OjuXmNOuK5MuqtJ_D-8" value="Local" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="690" y="511.89" width="180" height="170" as="geometry" />
+          <mxGeometry x="690" y="511.89" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gy1OjuXmNOuK5MuqtJ_D-9" value="-&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gy1OjuXmNOuK5MuqtJ_D-8" vertex="1">
           <mxGeometry y="26" width="180" height="94" as="geometry" />
@@ -1185,8 +1185,8 @@
         <mxCell id="gy1OjuXmNOuK5MuqtJ_D-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="gy1OjuXmNOuK5MuqtJ_D-8" vertex="1">
           <mxGeometry y="120" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="gy1OjuXmNOuK5MuqtJ_D-11" value="+toString(): String&#xa;+registroPersonal(): void&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gy1OjuXmNOuK5MuqtJ_D-8" vertex="1">
-          <mxGeometry y="128" width="180" height="42" as="geometry" />
+        <mxCell id="gy1OjuXmNOuK5MuqtJ_D-11" value="+toString(): String&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="gy1OjuXmNOuK5MuqtJ_D-8" vertex="1">
+          <mxGeometry y="128" width="180" height="32" as="geometry" />
         </mxCell>
         <mxCell id="gy1OjuXmNOuK5MuqtJ_D-12" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;entryX=0.55;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.435;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="R-teLPYyJ4iLzFkBUdng-4" target="gy1OjuXmNOuK5MuqtJ_D-8" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
