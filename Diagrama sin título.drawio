@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T17:09:30.555Z" agent="5.0 (Windows)" etag="pNhHnQsgdfxS2taUyiQ4" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-13T17:12:58.045Z" agent="5.0 (Windows)" etag="ykVR4zeTad0qJAvkLyCR" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1676" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -436,7 +436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXeVUx2i3qTCl8NVip3o" name="Página-4">
-    <mxGraphModel dx="794" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="628" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -560,7 +560,7 @@
             <mxPoint x="339.99999999999864" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="und5uDHeHWhiXlgHpSK9-6" value="CU_05 verificar caterogia" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="AgZHA6mLQ2DC2iVvmBWP-2">
+        <mxCell id="und5uDHeHWhiXlgHpSK9-6" value="CU_05 verificar información" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="AgZHA6mLQ2DC2iVvmBWP-2">
           <mxGeometry x="389.25" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="und5uDHeHWhiXlgHpSK9-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="__UVg9mrHGNrhYe9baEy-3" target="und5uDHeHWhiXlgHpSK9-6">
@@ -582,6 +582,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="169.99999999999682" y="790" as="sourcePoint" />
             <mxPoint x="103.25" y="835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="und5uDHeHWhiXlgHpSK9-23" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="und5uDHeHWhiXlgHpSK9-20" target="o87NlCN1QXnpaqg5qae4-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="255.00000000000296" y="840" as="sourcePoint" />
+            <mxPoint x="330" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="__UVg9mrHGNrhYe9baEy-2" value="Encargado inventario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
