@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T16:59:36.761Z" agent="5.0 (Windows)" etag="M4ObWQBtYBLTY9lhx23s" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-13T17:00:20.446Z" agent="5.0 (Windows)" etag="SkiCgJkUo11nihKDNIdI" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1676" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -456,7 +456,7 @@
           <mxGeometry x="190" y="730" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_HavNfcjE7pdmQ5R47-U-1" value="CU_04 marcar promoción del producto" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="AgZHA6mLQ2DC2iVvmBWP-2">
-          <mxGeometry x="213.25" y="880" width="150" height="70" as="geometry" />
+          <mxGeometry x="190" y="860" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="__UVg9mrHGNrhYe9baEy-1" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="_HavNfcjE7pdmQ5R47-U-1" target="o87NlCN1QXnpaqg5qae4-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -468,10 +468,10 @@
           <mxGeometry x="166.75" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpDPWH2SxQ0wCnEB7ern-1" value="CU_06 asignar porcentaje de descuento al producto" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="AgZHA6mLQ2DC2iVvmBWP-2">
-          <mxGeometry x="431.5" y="870" width="150" height="70" as="geometry" />
+          <mxGeometry x="400" y="910" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpDPWH2SxQ0wCnEB7ern-2" value="CU_07 deliminar descuento" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="AgZHA6mLQ2DC2iVvmBWP-2">
-          <mxGeometry x="570" y="970" width="150" height="70" as="geometry" />
+          <mxGeometry x="561.5" y="970" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="XpDPWH2SxQ0wCnEB7ern-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="_HavNfcjE7pdmQ5R47-U-1" target="XpDPWH2SxQ0wCnEB7ern-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -564,7 +564,7 @@
           <mxGeometry x="389.25" y="610" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="und5uDHeHWhiXlgHpSK9-7" value="CU_05 generar venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="AgZHA6mLQ2DC2iVvmBWP-2">
-          <mxGeometry x="571.5" y="820" width="140" height="70" as="geometry" />
+          <mxGeometry x="590" y="810" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="und5uDHeHWhiXlgHpSK9-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="__UVg9mrHGNrhYe9baEy-3" target="und5uDHeHWhiXlgHpSK9-6">
           <mxGeometry width="160" relative="1" as="geometry">
