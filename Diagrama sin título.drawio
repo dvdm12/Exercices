@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T14:34:04.420Z" agent="5.0 (Windows)" etag="EAw8IyepBhcFQn69we2f" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-13T14:35:25.302Z" agent="5.0 (Windows)" etag="fr0IlZyqsKudqYPZpxFk" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1676" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -361,7 +361,7 @@
           <mxGeometry x="40" y="34" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-14" value="C_1 consultar cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YbjtegRbU_BlA9I7pMpn-6">
-          <mxGeometry x="290" y="36" width="135" height="70" as="geometry" />
+          <mxGeometry x="315" y="20" width="135" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-15" value="&amp;lt;&amp;lt;include" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YbjtegRbU_BlA9I7pMpn-6" source="YbjtegRbU_BlA9I7pMpn-13" target="YbjtegRbU_BlA9I7pMpn-14">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -370,10 +370,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-17" value="C_2 generar compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YbjtegRbU_BlA9I7pMpn-6">
-          <mxGeometry x="45" y="160" width="140" height="70" as="geometry" />
+          <mxGeometry x="55" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-18" value="C_3 consultar negocio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YbjtegRbU_BlA9I7pMpn-6">
-          <mxGeometry x="275" y="130" width="140" height="70" as="geometry" />
+          <mxGeometry x="280" y="110" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YbjtegRbU_BlA9I7pMpn-6" source="YbjtegRbU_BlA9I7pMpn-17" target="YbjtegRbU_BlA9I7pMpn-18">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -382,7 +382,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-20" value="C_4 separar compra" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YbjtegRbU_BlA9I7pMpn-6">
-          <mxGeometry x="45" y="299" width="140" height="70" as="geometry" />
+          <mxGeometry x="80" y="300" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-21" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="YbjtegRbU_BlA9I7pMpn-6" source="YbjtegRbU_BlA9I7pMpn-20" target="YbjtegRbU_BlA9I7pMpn-18">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -397,7 +397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-23" value="C_5 fijar fecha" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YbjtegRbU_BlA9I7pMpn-6">
-          <mxGeometry x="285" y="299" width="140" height="70" as="geometry" />
+          <mxGeometry x="310" y="355" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YbjtegRbU_BlA9I7pMpn-6" source="YbjtegRbU_BlA9I7pMpn-20" target="YbjtegRbU_BlA9I7pMpn-23">
           <mxGeometry width="160" relative="1" as="geometry">
