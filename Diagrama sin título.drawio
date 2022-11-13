@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T17:13:10.232Z" agent="5.0 (Windows)" etag="yOMe_VxpFt8kNtwpxdwf" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-13T17:15:37.441Z" agent="5.0 (Windows)" etag="ExP62Ad9F7ij0nOmQQ3H" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1676" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -436,7 +436,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXeVUx2i3qTCl8NVip3o" name="Página-4">
-    <mxGraphModel dx="628" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1077" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,6 +590,15 @@
             <mxPoint x="330" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="und5uDHeHWhiXlgHpSK9-13" value="CU_05 visualizar estado de venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="AgZHA6mLQ2DC2iVvmBWP-2">
+          <mxGeometry x="120" y="970" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="und5uDHeHWhiXlgHpSK9-18" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="und5uDHeHWhiXlgHpSK9-13" target="und5uDHeHWhiXlgHpSK9-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-180.00000000000023" y="900" as="sourcePoint" />
+            <mxPoint x="520" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="__UVg9mrHGNrhYe9baEy-2" value="Encargado inventario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="260" y="640" width="30" height="60" as="geometry" />
         </mxCell>
@@ -633,18 +642,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="305" y="310" as="sourcePoint" />
             <mxPoint x="611.5000000000007" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="und5uDHeHWhiXlgHpSK9-13" value="CU_05 visualizar estado de venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="170" y="810" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="und5uDHeHWhiXlgHpSK9-7" value="CU_05 generar venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="290" y="900" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="und5uDHeHWhiXlgHpSK9-18" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="und5uDHeHWhiXlgHpSK9-7" target="und5uDHeHWhiXlgHpSK9-13">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1088.25" y="860" as="sourcePoint" />
-            <mxPoint x="1060" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
