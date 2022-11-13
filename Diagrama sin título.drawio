@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-13T14:33:54.508Z" agent="5.0 (Windows)" etag="CNMYkP-uzryPOtyEUZli" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-13T14:34:04.420Z" agent="5.0 (Windows)" etag="EAw8IyepBhcFQn69we2f" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1676" dy="1002" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -373,7 +373,7 @@
           <mxGeometry x="45" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-18" value="C_3 consultar negocio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="YbjtegRbU_BlA9I7pMpn-6">
-          <mxGeometry x="275" y="124" width="140" height="70" as="geometry" />
+          <mxGeometry x="275" y="130" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-19" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YbjtegRbU_BlA9I7pMpn-6" source="YbjtegRbU_BlA9I7pMpn-17" target="YbjtegRbU_BlA9I7pMpn-18">
           <mxGeometry width="160" relative="1" as="geometry">
