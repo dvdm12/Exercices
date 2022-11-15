@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-15T23:22:05.613Z" agent="5.0 (Windows)" etag="c4TJ6bLj7zd4W33lPGQ6" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-15T23:24:26.959Z" agent="5.0 (Windows)" etag="-LPF93Zab430e1Bm--ie" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="1300" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ohT2N6QQcAWo0nPiM2R5" name="Página-8">
-    <mxGraphModel dx="1150" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -344,7 +344,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vQSHjRNj_Q_yeYcszQU1" name="Página-9">
-    <mxGraphModel dx="1150" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1005" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,9 +353,6 @@
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-6" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="160" width="670" height="510" as="geometry" />
-        </mxCell>
-        <mxCell id="YbjtegRbU_BlA9I7pMpn-11" value="Centro Comercial2" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="YbjtegRbU_BlA9I7pMpn-6" vertex="1">
-          <mxGeometry x="195" y="10" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="YbjtegRbU_BlA9I7pMpn-13" value="CU_01 generar registro" style="ellipse;whiteSpace=wrap;html=1;" parent="YbjtegRbU_BlA9I7pMpn-6" vertex="1">
           <mxGeometry x="40" y="60" width="140" height="70" as="geometry" />
@@ -457,11 +454,14 @@
             <mxPoint x="775" y="504" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YbjtegRbU_BlA9I7pMpn-11" value="Centro Comercial2" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="1015" y="140" width="80" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="iXeVUx2i3qTCl8NVip3o" name="Página-4">
-    <mxGraphModel dx="1643" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1436" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
