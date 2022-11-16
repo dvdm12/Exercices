@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T01:10:03.046Z" agent="5.0 (Windows)" etag="MYkjJ3AJ8dUZfppuhx2L" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-16T01:10:25.647Z" agent="5.0 (Windows)" etag="T483QQ5Xi7Uxp8ld3Kfy" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1293" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -481,7 +481,7 @@
           <mxGeometry x="540" y="19" width="910" height="1070" as="geometry" />
         </mxCell>
         <mxCell id="AgZHA6mLQ2DC2iVvmBWP-3" value="Centro Comercial" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
-          <mxGeometry x="438.25" width="80" height="26" as="geometry" />
+          <mxGeometry x="470" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="t7Mrjyf4lfDltYR6Peaw-3" value="CU_02 visualizar inventario" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
           <mxGeometry x="76.25" y="662" width="140" height="70" as="geometry" />
