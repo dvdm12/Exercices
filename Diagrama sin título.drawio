@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T01:08:25.071Z" agent="5.0 (Windows)" etag="QNjTfhJSZYSCVUTyxGdo" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-16T01:10:03.046Z" agent="5.0 (Windows)" etag="MYkjJ3AJ8dUZfppuhx2L" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1293" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -470,7 +470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXeVUx2i3qTCl8NVip3o" name="Página-4">
-    <mxGraphModel dx="1078" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -594,7 +594,7 @@
             <mxPoint x="339.99999999999864" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="und5uDHeHWhiXlgHpSK9-6" value="CU_06 verificar información" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
+        <mxCell id="und5uDHeHWhiXlgHpSK9-6" value="CU_18 verificar información" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
           <mxGeometry x="530" y="592" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="und5uDHeHWhiXlgHpSK9-11" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="__UVg9mrHGNrhYe9baEy-3" target="und5uDHeHWhiXlgHpSK9-6" edge="1">
@@ -609,7 +609,7 @@
             <mxPoint x="260" y="735" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="und5uDHeHWhiXlgHpSK9-20" value="CU_02 generar venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
+        <mxCell id="und5uDHeHWhiXlgHpSK9-20" value="CU_17 generar venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
           <mxGeometry x="191" y="822" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="und5uDHeHWhiXlgHpSK9-21" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="und5uDHeHWhiXlgHpSK9-20" target="t7Mrjyf4lfDltYR6Peaw-3" edge="1">
