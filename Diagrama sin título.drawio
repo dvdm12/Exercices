@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T01:02:52.377Z" agent="5.0 (Windows)" etag="b2XwTQWJDw2xY-RmsNPp" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-16T01:08:25.071Z" agent="5.0 (Windows)" etag="QNjTfhJSZYSCVUTyxGdo" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1293" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ohT2N6QQcAWo0nPiM2R5" name="Página-8">
-    <mxGraphModel dx="1616" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1124" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,7 +353,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vQSHjRNj_Q_yeYcszQU1" name="Página-9">
-    <mxGraphModel dx="1521" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="892" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -470,7 +470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXeVUx2i3qTCl8NVip3o" name="Página-4">
-    <mxGraphModel dx="1847" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -558,7 +558,7 @@
             <mxPoint x="119.25" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NtUhvBVjt3u0mF7LcHmR-12" value="CU_12 generar multa" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
+        <mxCell id="NtUhvBVjt3u0mF7LcHmR-12" value="CU_15 generar multa" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
           <mxGeometry x="126.5" y="152" width="161.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NtUhvBVjt3u0mF7LcHmR-13" value="CU_14 consultar cliente" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
@@ -624,7 +624,7 @@
             <mxPoint x="330" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="und5uDHeHWhiXlgHpSK9-13" value="CU_07 visualizar estado de venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
+        <mxCell id="und5uDHeHWhiXlgHpSK9-13" value="CU_16 visualizar estado de venta" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
           <mxGeometry x="40" y="942" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="und5uDHeHWhiXlgHpSK9-18" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="und5uDHeHWhiXlgHpSK9-20" target="und5uDHeHWhiXlgHpSK9-13" edge="1">
