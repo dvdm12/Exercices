@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T19:42:05.749Z" agent="5.0 (Windows)" etag="FT1U4jmw2aZUQWR_VZ9u" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T19:42:18.978Z" agent="5.0 (Windows)" etag="IYZ3Nkuq4EBIzqLpfy15" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1615" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
           <mxGeometry x="540" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="me9kwOfxbLi7j0gJfrfD-2" value="CU_07 asignar nombre de negocio" style="ellipse;whiteSpace=wrap;html=1;" parent="_nHcjC6NgaVT3KqxXpBn-2" vertex="1">
-          <mxGeometry x="530" y="380" width="140" height="70" as="geometry" />
+          <mxGeometry x="540" y="340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="me9kwOfxbLi7j0gJfrfD-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="_nHcjC6NgaVT3KqxXpBn-2" source="_nHcjC6NgaVT3KqxXpBn-10" target="me9kwOfxbLi7j0gJfrfD-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
