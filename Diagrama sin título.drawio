@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T21:16:58.654Z" agent="5.0 (Windows)" etag="uN4LqE3QA-pmiUtwVuGf" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T21:22:14.345Z" agent="5.0 (Windows)" etag="e0GdDVPBAtMpLHmvL6aY" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="1447" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
+    <mxGraphModel dx="848" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -254,11 +254,14 @@
         <mxCell id="R_ib0qUvk4h3N-QS6VQn-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;HistorialVenta&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- fechaVenta: Date&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ visualizarVenta(): int&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="655" width="200" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="R_ib0qUvk4h3N-QS6VQn-6" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="N69s6EBZAKs7ROlux9TN-1" target="R_ib0qUvk4h3N-QS6VQn-4">
+        <mxCell id="R_ib0qUvk4h3N-QS6VQn-8" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.465;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="N69s6EBZAKs7ROlux9TN-1" target="R_ib0qUvk4h3N-QS6VQn-4">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1520" y="880" as="sourcePoint" />
-            <mxPoint x="1680" y="880" as="targetPoint" />
+            <mxPoint x="1450" y="870" as="sourcePoint" />
+            <mxPoint x="1610" y="870" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="R_ib0qUvk4h3N-QS6VQn-9" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="750" width="13" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
