@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T19:46:50.632Z" agent="5.0 (Windows)" etag="LRP9d857MOmMS9VWowJr" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T19:48:31.371Z" agent="5.0 (Windows)" etag="XZpCIcV24vAdjxaH_HMu" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1615" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BUKf_uYvmhXn13wRe4bL-1" value="CU_12 consultar informacion de empleados" style="ellipse;whiteSpace=wrap;html=1;" parent="_nHcjC6NgaVT3KqxXpBn-2" vertex="1">
-          <mxGeometry x="20" y="670" width="160" height="70" as="geometry" />
+          <mxGeometry x="60" y="680" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="BUKf_uYvmhXn13wRe4bL-3" value="CU_13 consultar fecha" style="ellipse;whiteSpace=wrap;html=1;" parent="_nHcjC6NgaVT3KqxXpBn-2" vertex="1">
           <mxGeometry x="490" y="630" width="150" height="70" as="geometry" />
@@ -378,7 +378,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xaUd3sk8-GKAt7B3Md50-3" value="CU_14 verificar tipo de empleado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_nHcjC6NgaVT3KqxXpBn-2">
-          <mxGeometry x="330" y="690" width="160" height="70" as="geometry" />
+          <mxGeometry x="370" y="700" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xaUd3sk8-GKAt7B3Md50-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_nHcjC6NgaVT3KqxXpBn-2" source="BUKf_uYvmhXn13wRe4bL-1" target="xaUd3sk8-GKAt7B3Md50-3">
           <mxGeometry width="160" relative="1" as="geometry">
