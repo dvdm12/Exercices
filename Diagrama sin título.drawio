@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T01:45:44.472Z" agent="5.0 (Windows)" etag="KRd2C8a5J29RiIIvkd6f" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T02:03:29.923Z" agent="5.0 (Windows)" etag="7xus9I6YhyzHnsY5NSFB" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1198" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="aMflp7bkuly-mx1zELmW-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Administrador&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;- &lt;br&gt;&lt;hr size=&quot;1&quot;&gt;+" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+        <mxCell id="aMflp7bkuly-mx1zELmW-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AdministradorNegocio&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;- &lt;br&gt;&lt;hr size=&quot;1&quot;&gt;+" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="290" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aMflp7bkuly-mx1zELmW-3" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="aMflp7bkuly-mx1zELmW-1" target="FyIRHZAKR3jJsP5KFHac-187">
