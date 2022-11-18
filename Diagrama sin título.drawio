@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T19:46:35.834Z" agent="5.0 (Windows)" etag="ziRDXJ2OqpPwVkOz09tH" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T19:46:50.632Z" agent="5.0 (Windows)" etag="LRP9d857MOmMS9VWowJr" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1615" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_nHcjC6NgaVT3KqxXpBn-2" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="480" y="110" width="740" height="790" as="geometry" />
+          <mxGeometry x="470" y="110" width="750" height="790" as="geometry" />
         </mxCell>
         <mxCell id="_nHcjC6NgaVT3KqxXpBn-4" value="Centro Comercial1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="_nHcjC6NgaVT3KqxXpBn-2" vertex="1">
           <mxGeometry x="324" y="-7" width="80" height="26" as="geometry" />
