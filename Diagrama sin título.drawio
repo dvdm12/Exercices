@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T19:48:41.864Z" agent="5.0 (Windows)" etag="IU6nqLq1_0HzjI886l4m" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T19:50:40.384Z" agent="5.0 (Windows)" etag="BZSD_DDZ4OqFDccvGvdu" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="1615" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
+    <mxGraphModel dx="913" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,15 +136,14 @@
         <mxCell id="zMG_7TYJd3lxGz3rvfSq-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AdministradorDeNegocio&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;- &lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="1343" y="212" width="180" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="zMG_7TYJd3lxGz3rvfSq-3" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=-0.011;entryY=0.801;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" parent="1" source="zMG_7TYJd3lxGz3rvfSq-1" target="FyIRHZAKR3jJsP5KFHac-187" edge="1">
+        <mxCell id="zMG_7TYJd3lxGz3rvfSq-3" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="zMG_7TYJd3lxGz3rvfSq-1" target="FyIRHZAKR3jJsP5KFHac-187" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1600" y="340" as="sourcePoint" />
             <mxPoint x="1710" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1523" y="276" />
               <mxPoint x="1540" y="276" />
-              <mxPoint x="1540" y="196" />
-              <mxPoint x="1550" y="196" />
+              <mxPoint x="1540" y="145" />
             </Array>
           </mxGeometry>
         </mxCell>
