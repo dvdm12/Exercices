@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T19:37:15.423Z" agent="5.0 (Windows)" etag="4L5xBwDCsWlA2rzX944t" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T19:42:05.749Z" agent="5.0 (Windows)" etag="FT1U4jmw2aZUQWR_VZ9u" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1615" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
@@ -369,6 +369,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="300" y="215" as="sourcePoint" />
             <mxPoint x="410" y="185" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xaUd3sk8-GKAt7B3Md50-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.445;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_nHcjC6NgaVT3KqxXpBn-2" source="_nHcjC6NgaVT3KqxXpBn-10" target="_nHcjC6NgaVT3KqxXpBn-23">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="335" as="sourcePoint" />
+            <mxPoint x="610" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_nHcjC6NgaVT3KqxXpBn-3" value="Administrador General" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
