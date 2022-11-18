@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T06:35:32.940Z" agent="5.0 (Windows)" etag="kTQ8M0p9TCEAumx4mOJt" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T06:39:12.102Z" agent="5.0 (Windows)" etag="626Y7o2iUmS2SVwR2eGu" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="2831" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2945" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-175" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Parqueadero&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ registrarVehiculo(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ buscar(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+eliminar(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="477" y="220" width="160" height="110" as="geometry" />
+          <mxGeometry x="477" y="180" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-176" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FyIRHZAKR3jJsP5KFHac-175" target="FyIRHZAKR3jJsP5KFHac-171" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -35,7 +35,7 @@
           <mxGeometry x="970" y="760" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-182" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Vehiculo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# placa: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# horaIngreso: Date&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# horaSalida: Date&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# propietario: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;# estadoVehiculo: String&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ generarFactura(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
-          <mxGeometry x="467" y="460" width="160" height="140" as="geometry" />
+          <mxGeometry x="467" y="420" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-183" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Carro&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- FRACCION_CARRO: final double&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="670" width="196" height="90" as="geometry" />
@@ -48,8 +48,8 @@
             <mxPoint x="827" y="450" as="sourcePoint" />
             <mxPoint x="987" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="547" y="400" />
-              <mxPoint x="517" y="400" />
+              <mxPoint x="547" y="360" />
+              <mxPoint x="517" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-206" value="30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="516" y="348" width="31" height="20" as="geometry" />
+          <mxGeometry x="516" y="308" width="31" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FyIRHZAKR3jJsP5KFHac-207" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="FyIRHZAKR3jJsP5KFHac-183" target="FyIRHZAKR3jJsP5KFHac-182" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -104,13 +104,13 @@
           <mxGeometry x="933" y="430" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bhqo9g9FosJsZrHJy8FX-3" value="&lt;div&gt;1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="633" y="262" width="30" height="20" as="geometry" />
+          <mxGeometry x="633" y="222" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N69s6EBZAKs7ROlux9TN-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Venta&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- fechaVenta: Date&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- seperado: Boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- valorVenta: double&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ generarVenta(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ separarVenta(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ cancelarVenta(): void&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="1220" y="940" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="N69s6EBZAKs7ROlux9TN-3" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="900" width="13" height="20" as="geometry" />
+          <mxGeometry x="1332" y="906" width="13" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N69s6EBZAKs7ROlux9TN-5" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FyIRHZAKR3jJsP5KFHac-199" target="N69s6EBZAKs7ROlux9TN-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zMG_7TYJd3lxGz3rvfSq-17" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="490" width="31" height="20" as="geometry" />
+          <mxGeometry x="420" y="450" width="31" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zMG_7TYJd3lxGz3rvfSq-19" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="zMG_7TYJd3lxGz3rvfSq-11" target="N69s6EBZAKs7ROlux9TN-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -220,6 +220,9 @@
               <mxPoint x="862" y="1045" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zMG_7TYJd3lxGz3rvfSq-20" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1173" y="1050" width="13" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
