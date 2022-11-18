@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T08:27:31.274Z" agent="5.0 (Windows)" etag="UhtaBSQXAK6Ahz3-NOsk" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-18T08:27:52.018Z" agent="5.0 (Windows)" etag="fsDlrbefxKAudb6OTbji" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="2918" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -110,7 +110,7 @@
           <mxGeometry x="1220" y="940" width="200" height="140" as="geometry" />
         </mxCell>
         <mxCell id="N69s6EBZAKs7ROlux9TN-3" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1340" y="910" width="13" height="20" as="geometry" />
+          <mxGeometry x="1234" y="540" width="13" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N69s6EBZAKs7ROlux9TN-5" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="FyIRHZAKR3jJsP5KFHac-199" target="N69s6EBZAKs7ROlux9TN-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N69s6EBZAKs7ROlux9TN-14" value="0...*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1480" y="490" width="20" height="10" as="geometry" />
+          <mxGeometry x="1227" y="500" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="zMG_7TYJd3lxGz3rvfSq-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AdministradorDeNegocio&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div&gt;&amp;nbsp;- &lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="1173" y="202" width="180" height="98" as="geometry" />
