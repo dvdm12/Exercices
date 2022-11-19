@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T18:48:11.300Z" agent="5.0 (Windows)" etag="QaqDREPocI0KRunuArKF" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-19T18:48:17.914Z" agent="5.0 (Windows)" etag="57LrHYprTg_kMF95S_uA" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="2396" dy="1368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1409" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,9 +198,6 @@
             <mxPoint x="1360" y="550" as="sourcePoint" />
             <mxPoint x="1520" y="550" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zMG_7TYJd3lxGz3rvfSq-17" value="0...30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="GW42PqVtfIW7Q7KOFt9C-19" vertex="1">
-          <mxGeometry x="510" y="160" width="31" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zMG_7TYJd3lxGz3rvfSq-19" value="" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="GW42PqVtfIW7Q7KOFt9C-19" source="zMG_7TYJd3lxGz3rvfSq-11" target="N69s6EBZAKs7ROlux9TN-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
