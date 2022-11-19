@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T18:08:21.541Z" agent="5.0 (Windows)" etag="fdqAmo2x3TAUPvERvbzG" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-19T18:08:30.017Z" agent="5.0 (Windows)" etag="VpgE5nxeK6MEP4HCZKl2" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
-    <mxGraphModel dx="614" dy="351" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -201,9 +201,7 @@
             <mxPoint x="200" y="790" as="sourcePoint" />
             <mxPoint x="637" y="530" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="240" />
-              <mxPoint x="490" y="240" />
-              <mxPoint x="490" y="250" />
+              <mxPoint x="130" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
