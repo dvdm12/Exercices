@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T20:49:29.581Z" agent="5.0 (Windows)" etag="yBAOmKKT44FBv8TeWNtD" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-19T20:55:30.916Z" agent="5.0 (Windows)" etag="PhdWTlGGc3x16OT_yMYd" version="20.5.3" type="github" pages="4">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1141" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
         <mxCell id="zMG_7TYJd3lxGz3rvfSq-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FacturaFraccion&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- &lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ calcularHoras(): int&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry y="980" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zMG_7TYJd3lxGz3rvfSq-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FacturaVenta&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- &lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ calcularCantidad(): double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
+        <mxCell id="zMG_7TYJd3lxGz3rvfSq-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FacturaVenta&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- &lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ calcularTotal(): double&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="1030" width="173" height="100" as="geometry" />
         </mxCell>
         <mxCell id="zMG_7TYJd3lxGz3rvfSq-12" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="zMG_7TYJd3lxGz3rvfSq-10" target="zMG_7TYJd3lxGz3rvfSq-9" edge="1">
