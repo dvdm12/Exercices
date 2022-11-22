@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T04:09:30.754Z" agent="5.0 (Windows)" etag="jUBBhjt_ZFTQipgm4_El" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T15:19:34.875Z" agent="5.0 (Windows)" etag="XMZm6jmzyLCTqum78q-n" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -819,12 +819,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jLquMxM8y5V3rnR0KVCZ" name="Página-5">
-    <mxGraphModel dx="1230" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UbFTbqGveytr-37gmRQU-1" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="140" width="460" height="440" as="geometry" />
+        <mxCell id="UbFTbqGveytr-37gmRQU-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="60" width="600" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="aaqjXs-Fg54zFzu5t85T-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
