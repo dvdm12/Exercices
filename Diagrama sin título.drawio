@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T15:19:34.875Z" agent="5.0 (Windows)" etag="XMZm6jmzyLCTqum78q-n" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T15:51:27.932Z" agent="5.0 (Windows)" etag="i8jyGddhC9KIS9bGTbEv" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -598,7 +598,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iXeVUx2i3qTCl8NVip3o" name="Página-4">
-    <mxGraphModel dx="1230" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -826,8 +826,23 @@
         <mxCell id="UbFTbqGveytr-37gmRQU-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="60" width="600" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="aaqjXs-Fg54zFzu5t85T-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="320" width="30" height="60" as="geometry" />
+        <mxCell id="aaqjXs-Fg54zFzu5t85T-2" value="Centro Comercial 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+          <mxGeometry x="250" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx8pfE1TJSigKFuyUDrr-1" value="Registrar ingreso vehiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+          <mxGeometry x="80" y="160" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Fx8pfE1TJSigKFuyUDrr-5" value="Consultar capacidad del parqueadero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+          <mxGeometry x="390" y="90" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Nc4FBhuIL_8ohsVTRhYS-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Fx8pfE1TJSigKFuyUDrr-1" target="Fx8pfE1TJSigKFuyUDrr-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="406.75" y="371" as="sourcePoint" />
+            <mxPoint x="411.75" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaqjXs-Fg54zFzu5t85T-1" value="Guardia" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
