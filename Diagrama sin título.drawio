@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T18:19:22.944Z" agent="5.0 (Windows)" etag="rRdiMW6EYsDuRV026doj" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T18:19:51.769Z" agent="5.0 (Windows)" etag="AYx9w9yj_KP9WPxKDBwi" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -801,6 +801,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="682.0219780219782" as="sourcePoint" />
             <mxPoint x="626.250000000003" y="726" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQEZiQFx1_G_dL_H4phx-46" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AgZHA6mLQ2DC2iVvmBWP-1" target="XQEZiQFx1_G_dL_H4phx-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="359.8443579766538" as="sourcePoint" />
+            <mxPoint x="626.25" y="765" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XQEZiQFx1_G_dL_H4phx-47" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AgZHA6mLQ2DC2iVvmBWP-1" target="o87NlCN1QXnpaqg5qae4-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="349.85277463193654" as="sourcePoint" />
+            <mxPoint x="746.4999999999998" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
