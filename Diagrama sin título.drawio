@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T18:18:37.321Z" agent="5.0 (Windows)" etag="LIPGibndaKpWgaMzwl5d" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T18:19:22.944Z" agent="5.0 (Windows)" etag="rRdiMW6EYsDuRV026doj" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -615,12 +615,12 @@
           <mxGeometry x="76.25" y="701" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o87NlCN1QXnpaqg5qae4-1" value="CU_03 modificar producto" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
-          <mxGeometry x="410" y="591" width="140" height="70" as="geometry" />
+          <mxGeometry x="320" y="581" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_HavNfcjE7pdmQ5R47-U-1" value="CU_04 marcar promoción del producto" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
           <mxGeometry x="481.5" y="721" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="__UVg9mrHGNrhYe9baEy-1" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="_HavNfcjE7pdmQ5R47-U-1" target="o87NlCN1QXnpaqg5qae4-1" edge="1">
+        <mxCell id="__UVg9mrHGNrhYe9baEy-1" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="_HavNfcjE7pdmQ5R47-U-1" target="o87NlCN1QXnpaqg5qae4-1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="400" y="360" as="sourcePoint" />
             <mxPoint x="375" y="290" as="targetPoint" />
@@ -755,6 +755,12 @@
             <mxPoint x="312.85306092558744" y="810.3007992426706" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="XQEZiQFx1_G_dL_H4phx-45" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="AgZHA6mLQ2DC2iVvmBWP-2" source="_HavNfcjE7pdmQ5R47-U-1" target="XQEZiQFx1_G_dL_H4phx-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="566.5" y="731" as="sourcePoint" />
+            <mxPoint x="400" y="661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="__UVg9mrHGNrhYe9baEy-2" value="Encargado inventario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="260" y="640" width="30" height="60" as="geometry" />
         </mxCell>
@@ -795,12 +801,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="682.0219780219782" as="sourcePoint" />
             <mxPoint x="626.250000000003" y="726" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XQEZiQFx1_G_dL_H4phx-43" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1106.5" y="750" as="sourcePoint" />
-            <mxPoint x="1030" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
