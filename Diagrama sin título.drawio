@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T16:52:30.836Z" agent="5.0 (Windows)" etag="RkcVCWccTrJ0Q8IRWwZ3" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T16:52:51.827Z" agent="5.0 (Windows)" etag="QO5OyCA8lVly7DGuHaSm" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -890,12 +890,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-WS1pOiT6OvYRZkDIiD-15" value="Calcular fracción por horas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="480" y="620" width="140" height="70" as="geometry" />
+          <mxGeometry x="530" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y-WS1pOiT6OvYRZkDIiD-16" value="Consultar información del vehiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="220" y="640" width="140" height="70" as="geometry" />
+          <mxGeometry x="290" y="500" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Y-WS1pOiT6OvYRZkDIiD-11" target="Y-WS1pOiT6OvYRZkDIiD-16">
+        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Y-WS1pOiT6OvYRZkDIiD-11" target="Y-WS1pOiT6OvYRZkDIiD-16">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="350.00000000000205" y="470" as="sourcePoint" />
             <mxPoint x="440" y="500" as="targetPoint" />
@@ -908,7 +908,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NDqKhCtBF14LqxoKNYfT-2" value="Generar factura de pago" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="540" y="730" width="140" height="70" as="geometry" />
+          <mxGeometry x="580" y="650" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NDqKhCtBF14LqxoKNYfT-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Y-WS1pOiT6OvYRZkDIiD-15" target="NDqKhCtBF14LqxoKNYfT-2">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -917,7 +917,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NDqKhCtBF14LqxoKNYfT-4" value="Habilitar cupo en parqueadero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="330" y="770" width="140" height="70" as="geometry" />
+          <mxGeometry x="370" y="690" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="NDqKhCtBF14LqxoKNYfT-5" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="NDqKhCtBF14LqxoKNYfT-2" target="NDqKhCtBF14LqxoKNYfT-4">
           <mxGeometry width="160" relative="1" as="geometry">
