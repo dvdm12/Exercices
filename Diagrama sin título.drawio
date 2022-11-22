@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T18:14:35.549Z" agent="5.0 (Windows)" etag="5L6mHnqxC8H6CsielrSZ" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T18:15:14.099Z" agent="5.0 (Windows)" etag="mL3QpbqgUo3J9n65_sdB" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -615,7 +615,7 @@
           <mxGeometry x="76.25" y="701" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o87NlCN1QXnpaqg5qae4-1" value="CU_03 modificar producto" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
-          <mxGeometry x="274.25" y="601" width="140" height="70" as="geometry" />
+          <mxGeometry x="170" y="591" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_HavNfcjE7pdmQ5R47-U-1" value="CU_04 marcar promoción del producto" style="ellipse;whiteSpace=wrap;html=1;fontSize=11;" parent="AgZHA6mLQ2DC2iVvmBWP-2" vertex="1">
           <mxGeometry x="536.5" y="762" width="150" height="70" as="geometry" />
@@ -794,7 +794,7 @@
             <mxPoint x="626.250000000003" y="726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XQEZiQFx1_G_dL_H4phx-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="o87NlCN1QXnpaqg5qae4-1">
+        <mxCell id="XQEZiQFx1_G_dL_H4phx-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;" edge="1" parent="1" target="o87NlCN1QXnpaqg5qae4-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="330" as="sourcePoint" />
             <mxPoint x="626.25" y="765" as="targetPoint" />
