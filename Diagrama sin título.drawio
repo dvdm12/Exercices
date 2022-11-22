@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T16:07:16.651Z" agent="5.0 (Windows)" etag="IKLRVKND6Q9l_SHKv6zl" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T16:12:02.571Z" agent="5.0 (Windows)" etag="7OxU-yv8i47I-Zfi3C0U" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ohT2N6QQcAWo0nPiM2R5" name="Página-8">
-    <mxGraphModel dx="1235" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,28 +393,28 @@
             <mxPoint x="450" y="605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xaUd3sk8-GKAt7B3Md50-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_nHcjC6NgaVT3KqxXpBn-2" source="_nHcjC6NgaVT3KqxXpBn-5" target="_nHcjC6NgaVT3KqxXpBn-10">
+        <mxCell id="xaUd3sk8-GKAt7B3Md50-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="_nHcjC6NgaVT3KqxXpBn-2" source="_nHcjC6NgaVT3KqxXpBn-5" target="_nHcjC6NgaVT3KqxXpBn-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="300" y="215" as="sourcePoint" />
             <mxPoint x="410" y="185" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xaUd3sk8-GKAt7B3Md50-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.445;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_nHcjC6NgaVT3KqxXpBn-2" source="_nHcjC6NgaVT3KqxXpBn-10" target="_nHcjC6NgaVT3KqxXpBn-23">
+        <mxCell id="xaUd3sk8-GKAt7B3Md50-2" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.445;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_nHcjC6NgaVT3KqxXpBn-2" source="_nHcjC6NgaVT3KqxXpBn-10" target="_nHcjC6NgaVT3KqxXpBn-23" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="490" y="335" as="sourcePoint" />
             <mxPoint x="610" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xaUd3sk8-GKAt7B3Md50-3" value="CU_14 verificar tipo de empleado" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_nHcjC6NgaVT3KqxXpBn-2">
+        <mxCell id="xaUd3sk8-GKAt7B3Md50-3" value="CU_14 verificar tipo de empleado" style="ellipse;whiteSpace=wrap;html=1;" parent="_nHcjC6NgaVT3KqxXpBn-2" vertex="1">
           <mxGeometry x="370" y="700" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="xaUd3sk8-GKAt7B3Md50-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_nHcjC6NgaVT3KqxXpBn-2" source="BUKf_uYvmhXn13wRe4bL-1" target="xaUd3sk8-GKAt7B3Md50-3">
+        <mxCell id="xaUd3sk8-GKAt7B3Md50-4" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_nHcjC6NgaVT3KqxXpBn-2" source="BUKf_uYvmhXn13wRe4bL-1" target="xaUd3sk8-GKAt7B3Md50-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="312.3949959256993" y="659.5786489181789" as="sourcePoint" />
             <mxPoint x="490.00000000000273" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NeTH5OC3_4Ok1rJjpM8H-1" value="CU_15 asignar valor de renta de local" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_nHcjC6NgaVT3KqxXpBn-2">
+        <mxCell id="NeTH5OC3_4Ok1rJjpM8H-1" value="CU_15 asignar valor de renta de local" style="ellipse;whiteSpace=wrap;html=1;" parent="_nHcjC6NgaVT3KqxXpBn-2" vertex="1">
           <mxGeometry x="570" y="230" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_nHcjC6NgaVT3KqxXpBn-3" value="Administrador General" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
@@ -468,10 +468,10 @@
             <mxPoint x="631.5559014651217" y="730.4446033758668" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NeTH5OC3_4Ok1rJjpM8H-2" value="Aplicación" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="NeTH5OC3_4Ok1rJjpM8H-2" value="Aplicación" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1310" y="280" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NeTH5OC3_4Ok1rJjpM8H-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NeTH5OC3_4Ok1rJjpM8H-2" target="NeTH5OC3_4Ok1rJjpM8H-1">
+        <mxCell id="NeTH5OC3_4Ok1rJjpM8H-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="NeTH5OC3_4Ok1rJjpM8H-2" target="NeTH5OC3_4Ok1rJjpM8H-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1339.9988785834457" y="420" as="sourcePoint" />
             <mxPoint x="1459.3939736509815" y="850.5691946452719" as="targetPoint" />
@@ -481,7 +481,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vQSHjRNj_Q_yeYcszQU1" name="Página-9">
-    <mxGraphModel dx="1230" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -819,7 +819,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jLquMxM8y5V3rnR0KVCZ" name="Página-5">
-    <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="813" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -833,7 +833,7 @@
           <mxGeometry x="30" y="220" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fx8pfE1TJSigKFuyUDrr-5" value="Consultar capacidad del parqueadero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="340" y="150" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Nc4FBhuIL_8ohsVTRhYS-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Fx8pfE1TJSigKFuyUDrr-1" target="Fx8pfE1TJSigKFuyUDrr-5">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -850,14 +850,17 @@
             <mxPoint x="390" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nc4FBhuIL_8ohsVTRhYS-4" value="Consultar capacidad del parqueadero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+        <mxCell id="Nc4FBhuIL_8ohsVTRhYS-4" value="Lanzar alerta " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
           <mxGeometry x="420" y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="189.99594675802086" y="110.00408004669612" as="sourcePoint" />
+            <mxPoint x="331.19000000000005" y="63.99000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aaqjXs-Fg54zFzu5t85T-1" value="Guardia" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="280" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Nc4FBhuIL_8ohsVTRhYS-5" value="Aplicacion" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="170" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
