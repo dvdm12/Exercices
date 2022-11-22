@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T16:52:51.827Z" agent="5.0 (Windows)" etag="QO5OyCA8lVly7DGuHaSm" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T16:53:36.014Z" agent="5.0 (Windows)" etag="84pL9c5P309IBtFbllLA" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -827,7 +827,7 @@
           <mxGeometry x="420" y="40" width="740" height="890" as="geometry" />
         </mxCell>
         <mxCell id="aaqjXs-Fg54zFzu5t85T-2" value="Centro Comercial 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="250" width="130" height="30" as="geometry" />
+          <mxGeometry x="360" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Fx8pfE1TJSigKFuyUDrr-1" value="Registrar ingreso vehículo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
           <mxGeometry x="30" y="320" width="140" height="70" as="geometry" />
