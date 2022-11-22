@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T16:25:40.000Z" agent="5.0 (Windows)" etag="TLSJX7V0VHWBRg92DJkC" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T16:37:30.719Z" agent="5.0 (Windows)" etag="B9ySYj-NrVfHWw6v0Xt2" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -819,17 +819,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jLquMxM8y5V3rnR0KVCZ" name="Página-5">
-    <mxGraphModel dx="813" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UbFTbqGveytr-37gmRQU-1" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="30" width="600" height="630" as="geometry" />
+          <mxGeometry x="420" y="30" width="600" height="890" as="geometry" />
         </mxCell>
         <mxCell id="aaqjXs-Fg54zFzu5t85T-2" value="Centro Comercial 4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
           <mxGeometry x="250" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Fx8pfE1TJSigKFuyUDrr-1" value="Registrar ingreso vehiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+        <mxCell id="Fx8pfE1TJSigKFuyUDrr-1" value="Registrar ingreso vehículo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
           <mxGeometry x="30" y="320" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Fx8pfE1TJSigKFuyUDrr-5" value="Consultar capacidad del parqueadero" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
@@ -842,7 +842,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nc4FBhuIL_8ohsVTRhYS-2" value="Ingresar datos del vehiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="200" y="430" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="400" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Nc4FBhuIL_8ohsVTRhYS-3" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.958;exitY=0.739;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Fx8pfE1TJSigKFuyUDrr-1" target="Nc4FBhuIL_8ohsVTRhYS-2">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -876,6 +876,12 @@
             <mxPoint x="165.09686491371986" y="343.4110243603384" as="sourcePoint" />
             <mxPoint x="250" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-11" value="Registrar salida del vehículo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+          <mxGeometry x="90" y="530" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-12" value="Fijar hora de entrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+          <mxGeometry x="40" y="180" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aaqjXs-Fg54zFzu5t85T-1" value="Aplicación" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="190" width="30" height="60" as="geometry" />
