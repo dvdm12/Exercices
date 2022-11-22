@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T16:54:21.572Z" agent="5.0 (Windows)" etag="m3fZEFoOYxR46zDupxvu" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-22T17:17:19.883Z" agent="5.0 (Windows)" etag="69EU7KkNvbXSm4PRVxSh" version="20.5.3" type="github" pages="5">
   <diagram id="Se-fUFtjOkQhfNqIs3zy" name="Página-7">
     <mxGraphModel dx="1422" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -878,7 +878,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y-WS1pOiT6OvYRZkDIiD-11" value="Registrar salida del vehículo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="40" y="570" width="170" height="90" as="geometry" />
+          <mxGeometry x="240" y="550" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Y-WS1pOiT6OvYRZkDIiD-12" value="Fijar hora de entrada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
           <mxGeometry x="530" y="330" width="160" height="80" as="geometry" />
@@ -893,15 +893,9 @@
           <mxGeometry x="530" y="500" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y-WS1pOiT6OvYRZkDIiD-16" value="Consultar información del vehiculo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="290" y="500" width="140" height="70" as="geometry" />
+          <mxGeometry x="60" y="490" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-17" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Y-WS1pOiT6OvYRZkDIiD-11" target="Y-WS1pOiT6OvYRZkDIiD-16">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="350.00000000000205" y="470" as="sourcePoint" />
-            <mxPoint x="440" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NDqKhCtBF14LqxoKNYfT-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Y-WS1pOiT6OvYRZkDIiD-16" target="Y-WS1pOiT6OvYRZkDIiD-15">
+        <mxCell id="NDqKhCtBF14LqxoKNYfT-1" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="Y-WS1pOiT6OvYRZkDIiD-11" target="Y-WS1pOiT6OvYRZkDIiD-15">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="219.9999999999991" y="625" as="sourcePoint" />
             <mxPoint x="360" y="650" as="targetPoint" />
@@ -925,8 +919,14 @@
             <mxPoint x="620" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NDqKhCtBF14LqxoKNYfT-6" value="Registrar salida del vehículo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
-          <mxGeometry x="70" y="790" width="170" height="90" as="geometry" />
+        <mxCell id="NDqKhCtBF14LqxoKNYfT-6" value="Eliminar vehículo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="UbFTbqGveytr-37gmRQU-1">
+          <mxGeometry x="550" y="780" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NDqKhCtBF14LqxoKNYfT-8" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="UbFTbqGveytr-37gmRQU-1" source="NDqKhCtBF14LqxoKNYfT-2" target="NDqKhCtBF14LqxoKNYfT-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="590" y="695" as="sourcePoint" />
+            <mxPoint x="520" y="735" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="aaqjXs-Fg54zFzu5t85T-1" value="Aplicación" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1080" y="190" width="30" height="60" as="geometry" />
@@ -946,10 +946,10 @@
             <mxPoint x="1090" y="233.91304347826087" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y-WS1pOiT6OvYRZkDIiD-3" target="Y-WS1pOiT6OvYRZkDIiD-11">
+        <mxCell id="Y-WS1pOiT6OvYRZkDIiD-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y-WS1pOiT6OvYRZkDIiD-3" target="Y-WS1pOiT6OvYRZkDIiD-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="338.33333333333326" as="sourcePoint" />
-            <mxPoint x="460.00000000000045" y="405" as="targetPoint" />
+            <mxPoint x="350" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
